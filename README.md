@@ -29,12 +29,13 @@ The cleaned dataset was then visualised in Power BI to create a clear and intera
 - Certain regions consistently outperform others in sales performance  
 - Revenue trends vary across years, highlighting opportunities for growth  
 
-###  Sales Overview Dashboard Preview
+### Sales Revenue Performance Dashboard Preview
+
+![Sales Revenue Dashboard](https://github.com/oyeniyi-the-analyst/Sales_Performance_Data_Analytics/blob/main/dashboard_images/Sales_Revenue_Performance_dashboard.png?raw=true)
 
 ![Sales Dashboard](https://github.com/oyeniyi-the-analyst/Sales_Performance_Data_Analytics/blob/main/dashboard_images/Sales%20Overview%20dashboard.png?raw=true)
 
 ## Data Workflow
-
 (Please see attached powerpoint in sales-analytics folder).
 
 
