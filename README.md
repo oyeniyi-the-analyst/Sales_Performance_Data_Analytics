@@ -29,12 +29,9 @@ The cleaned dataset was then visualised in Power BI to create a clear and intera
 - Certain regions consistently outperform others in sales performance  
 - Revenue trends vary across years, highlighting opportunities for growth  
 
----
+###  Sales Overview Dashboard Preview
 
-## Dashboard
-
-### Sales Dashboard
-(Please see attached power BI dashboard screenshots in sales-analytics folder).
+![Sales Dashboard](https://github.com/oyeniyi-the-analyst/Sales_Performance_Data_Analytics/blob/main/dashboard_images/Sales%20Overview%20dashboard.png?raw=true)
 
 ## Data Workflow
 
@@ -46,7 +43,6 @@ It includes an automated workflow that:
 - Executes SQL analysis  
 - Validates the system environment  
 - Logs outputs for traceability  
-
 
 
 ## Why This Project Matters
